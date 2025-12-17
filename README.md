@@ -1,4 +1,5 @@
-Website quản lý cửa hàng mỹ phẩm thực hiện cung cấp các chức năng chính như:
+
+Sản phẩm nhóm - Website quản lý cửa hàng mỹ phẩm thực hiện cung cấp các chức năng chính như:
 
 
   •	Quản lý sản phẩm
