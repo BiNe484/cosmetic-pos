@@ -13,3 +13,6 @@ Sản phẩm nhóm - Website quản lý cửa hàng mỹ phẩm thực hiện cu
   •	Tích hợp quản lý ca làm và doanh thu
 
   •	Cung cấp báo cáo và thống kê phục vụ quản lý và ra quyết định
+
+
+Sử dụng React kết hợp với Vite, Tailwind CSS, và MUI (Material-UI) để xây dựng giao diện người dùng của nền tảng.
